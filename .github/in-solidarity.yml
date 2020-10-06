@@ -1,9 +1,9 @@
 rules:
   master:
-    level: failure
+    level: warning
   slave:
-    level: failure
+    level: warning
   whitelist:
-    level: failure
+    level: warning
   blacklist:
-    level: failure
+    level: warning
